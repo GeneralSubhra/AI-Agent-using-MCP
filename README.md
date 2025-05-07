@@ -2,7 +2,6 @@
 
 A modular, memory-enabled AI agent that thinks, searches, automates, and acts
 
-> 🔥 Now with a full tutorial video! Scroll down for the link.
 
 ---
 
@@ -18,13 +17,6 @@ A modular, memory-enabled AI agent that thinks, searches, automates, and acts
 
 ---
 
-## 📺 Tutorial Video
-
-Watch the full walkthrough and demo:
-
-**🔗 [Video Tutorial on YouTube](#)** *(Insert your video link here)*
-
----
 
 ## 📂 Project Structure
 
